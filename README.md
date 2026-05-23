@@ -134,7 +134,7 @@ Travel-Agency/
 ## 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/amitchiku/amitchiku-travel-agency.git
+git clone https://github.com/amitchiku/travell-booking-web
 ```
 
 ---
